@@ -1,0 +1,20 @@
+# 크롤링
+selenium
+beautifulsoup4
+
+# 데이터 처리
+pandas
+
+# RAG 테스트셋 생성 및 평가
+ragas
+langchain
+langchain-core
+langchain-openai
+langchain-community
+openai
+datasets
+jq
+rapidfuzz
+
+# 참고: google.colab, google-colab 관련 모듈은 Google Colab 환경에 내장되어 있어
+# 로컬 pip로 설치할 수 없습니다. 로컬에서 실행 시 해당 코드는 별도 대체가 필요합니다.
